@@ -1,0 +1,19 @@
+package U5_Lists.L1_Lab.MoreExercise;
+
+import java.util.Scanner;
+
+public class P04_ReverseString {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        String input = scanner.nextLine();
+        String reverse = "";
+
+        for (int i = input.length() - 1; i >= 0; i--) {
+            char currentLetter = input.charAt(i);
+            reverse += currentLetter;
+
+        }
+        System.out.println(reverse);
+    }
+}
