@@ -1,4 +1,4 @@
-package U5_Lists.L1_Lab.MoreExercise;
+package U1_BasicSyntaxConditionalStatementsLoops.MoreExercise;
 
 import java.util.Scanner;
 

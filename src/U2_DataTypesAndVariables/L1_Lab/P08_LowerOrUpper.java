@@ -1,4 +1,4 @@
-package U5_Lists.L1_Lab;
+package U2_DataTypesAndVariables.L1_Lab;
 
 import java.util.Scanner;
 

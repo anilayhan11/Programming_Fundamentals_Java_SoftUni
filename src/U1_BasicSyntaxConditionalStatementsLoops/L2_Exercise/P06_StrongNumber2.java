@@ -1,5 +1,5 @@
 // Solution using modular division.
-package U5_Lists.L1_Lab.L2_Exercise;
+package U1_BasicSyntaxConditionalStatementsLoops.L2_Exercise;
 
 import java.util.Scanner;
 

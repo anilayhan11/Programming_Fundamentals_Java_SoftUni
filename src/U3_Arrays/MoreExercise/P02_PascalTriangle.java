@@ -1,4 +1,4 @@
-package U5_Lists.L1_Lab.MoreExercise;
+package U3_Arrays.MoreExercise;
 
 import java.util.Arrays;
 import java.util.Scanner;
