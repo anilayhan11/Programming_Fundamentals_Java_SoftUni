@@ -14,10 +14,7 @@ public class P05_Courses {
             String course = input.split(" : ")[0];
             String student = input.split(" : ")[1];
 
-            if (!studentsMap.containsKey(course)) {
-                studentsMap.put(course, new ArrayList<>());
-            }
-
+            studentsMap.putIfAbsent(course, new ArrayList<>());
             studentsMap.get(course).add(student);
 
             input = scanner.nextLine();
