@@ -14,6 +14,7 @@ public class P06_CalculateRectangleArea {
     }
 
     public static int rectangleArea(int width, int length) {
+
         return width * length;
     }
 }
